@@ -47,7 +47,7 @@
     "prepack": "npm run build"
   },
   "peerDependencies": {
-    "@headlessui/vue": "^1.0.0",
+    "@headlessui/vue": "1.0.0",
     "vue": "^3.0.0"
   },
   "dependencies": {
